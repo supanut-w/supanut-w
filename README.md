@@ -2,12 +2,13 @@
 // TODO: Add introduction
 
 
-## Skills: REACT / JS / HTML / CSS / NODE
+## Skills: ...
 // TODO: Add pics of each skills
 
 
-## Emaples of Work
-// TODO: Add example of my works in path.
+## Examples of Work
+// TODO: Add example of my works as a link/path to a project.
+
 
 ## Contact
 // TODO: Contact (Linkedin)
