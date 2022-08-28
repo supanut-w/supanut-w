@@ -3,7 +3,7 @@
 
 
 ## Skills: ...
-// TODO: Add pics of each skills
+// TODO: Add pics of each skills, Hard/Soft skills
 
 
 ## Examples of Work
