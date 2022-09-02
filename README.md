@@ -12,3 +12,7 @@
 
 ## Contact
 // TODO: Contact (Linkedin)
+
+
+## Projects
+// TODO: Add my projects showcase here
