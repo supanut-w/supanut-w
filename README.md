@@ -4,6 +4,7 @@
 
 ## Skills: ...
 // TODO: Add pics of each skills, Hard/Soft skills
+// Bar chart??
 
 
 ## Examples of Work
