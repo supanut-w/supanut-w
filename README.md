@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Supanut Watjanarat
-// TODO: Add introduction
+// TODO: Add introduction (Experience)
 
 
 ## Skills: ...
