@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Supanut Watjanarat
-// TODO: Add introduction (Experience)
+// TODO: Add introduction (Experiences / Background as a Senior Test Development Engineer in Semiconductor field)
 
 
 ## Skills: ...
@@ -7,7 +7,7 @@
 // Bar chart??
 
 
-## Examples of Work
+## Examples of Works
 // TODO: Add example of my works as a link/path to a project.
 
 
