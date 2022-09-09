@@ -6,6 +6,25 @@
 // TODO: Add pics of each skills, Hard/Soft skills
 // Bar chart??
 
+Front-End Stacks
+  -HTML
+  -CSS
+  -Tailwind CSS
+  -React
+
+Back-End Stacks
+  -NodeJS
+  -ExpressJS
+
+Frameworks
+  -TypeScript
+ 
+Databases
+  -PostgreSQL
+  -MongoDB
+  
+ 
+
 
 ## Examples of Works
 // TODO: Add example of my works as a link/path to a project.
