@@ -3,11 +3,13 @@
 
 <h2>Skills</h2>
 <h3>Front End + Framwork</h3>
-HTML
-CSS
-JS
-React
-Angular
+<p>
+  HTML
+  CSS
+  JS
+  React
+  Angular
+</p>
 
 <h3>Back End + Framwork</h3>
 NodeJS + ExpressJS
