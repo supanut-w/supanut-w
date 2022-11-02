@@ -71,5 +71,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supanut-w&show_icons=true&locale=en&layout=compact" alt="supanut-w" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supanut-w&show_icons=true&locale=en" alt="supanut-w" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supanut-w&" alt="supanut-w" /></p>
