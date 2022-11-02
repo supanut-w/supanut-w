@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Supanut Watjanarat</h1>
 <h3 align="center">A passionate software developer from Thailand</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supanut-w&label=Profile%20views&color=0e75b6&style=flat" alt="supanut-w" /> </p>
 
 - 📫 How to reach me **supanut.wj@gmail.com**
 
-- 📄 Know about my experiences [TBD](TBD)
+- 📄 Know about my experiences TODO: Add resume here
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
